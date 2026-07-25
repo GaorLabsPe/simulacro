@@ -1,6 +1,6 @@
 {
-  "name": "Simulacro Examen PNP",
-  "description": "Centro de preparación y simulacros de examen para ascensos y especialidades de la Policía Nacional del Perú.",
+  "name": "Simulacro Examen PNP 2026",
+  "description": "Plataforma interactiva de evaluación y preparación pedagógica para los Exámenes de Ascenso de la Policía Nacional del Perú.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

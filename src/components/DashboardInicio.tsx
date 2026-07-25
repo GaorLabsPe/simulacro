@@ -56,7 +56,7 @@ export const DashboardInicio: React.FC<DashboardInicioProps> = ({
   return (
     <div id="dashboard-inicio-container" className="max-w-6xl mx-auto px-4 py-8 space-y-10">
       {/* Hero Header */}
-      <div className={`p-8 sm:p-10 rounded-3xl border relative overflow-hidden shadow-xs ${
+      <div className={`p-6 sm:p-10 rounded-3xl border relative overflow-hidden shadow-xs ${
         darkMode
           ? 'bg-gradient-to-br from-slate-900 via-slate-900 to-amber-950/30 border-slate-800'
           : 'bg-gradient-to-br from-slate-900 via-slate-900 to-slate-800 text-white border-amber-500/30'
